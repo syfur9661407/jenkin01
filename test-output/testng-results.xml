@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25030" started-at="2019-11-25T02:22:29Z" finished-at="2019-11-25T02:22:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25030" started-at="2019-11-25T02:22:29Z" finished-at="2019-11-25T02:22:54Z">
+      <class name="google_search.TC001">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:google_search.TC001@42b3b079]" name="openbrowser" is-config="true" duration-ms="1443" started-at="2019-11-24T21:22:29Z" finished-at="2019-11-24T21:22:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="Test_1()[pri:0, instance:google_search.TC001@42b3b079]" name="Test_1" duration-ms="8794" started-at="2019-11-24T21:22:31Z" finished-at="2019-11-24T21:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_1 -->
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:google_search.TC001@42b3b079]" name="openbrowser" is-config="true" duration-ms="1413" started-at="2019-11-24T21:22:40Z" finished-at="2019-11-24T21:22:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="Test_2()[pri:0, instance:google_search.TC001@42b3b079]" name="Test_2" duration-ms="13316" started-at="2019-11-24T21:22:41Z" finished-at="2019-11-24T21:22:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_2 -->
+        <test-method status="PASS" signature="ClosingBrowser()[pri:0, instance:google_search.TC001@42b3b079]" name="ClosingBrowser" is-config="true" duration-ms="30" started-at="2019-11-24T21:22:54Z" finished-at="2019-11-24T21:22:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosingBrowser -->
+      </class> <!-- google_search.TC001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
